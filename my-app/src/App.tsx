@@ -7,7 +7,8 @@ function App() {
     <> 
 
     Brandon
-    
+
+    <h3>Nichola</h3>    
     
     </>
   );
